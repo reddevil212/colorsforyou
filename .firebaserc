@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "slidesavvy": "slidesavvy-6ab43"
+  },
+  "targets": {
+    "slidesavvy-6ab43": {
+      "hosting": {
+        "colorsforyou": [
+          "colorsforyou"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

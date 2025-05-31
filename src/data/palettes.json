@@ -1,0 +1,2293 @@
+{
+    "palettes": [
+        {
+            "id": 1,
+            "name": "Sunset Vibes",
+            "colors": [
+                "#FF7B89",
+                "#FFB26B",
+                "#FFD447",
+                "#76BFAC",
+                "#556FB5"
+            ],
+            "category": "warm",
+            "tags": [
+                "sunset",
+                "warm",
+                "vibrant",
+                "summer",
+                "beach"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "name": "Ocean Breeze",
+            "colors": [
+                "#1A535C",
+                "#4ECDC4",
+                "#F7FFF7",
+                "#FF6B6B",
+                "#FFE66D"
+            ],
+            "category": "cool",
+            "tags": [
+                "ocean",
+                "beach",
+                "water",
+                "cool",
+                "fresh"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 3,
+            "name": "Forest Haven",
+            "colors": [
+                "#2D3047",
+                "#419D78",
+                "#E0A458",
+                "#FFDBB5",
+                "#C04ABC"
+            ],
+            "category": "earth",
+            "tags": [
+                "forest",
+                "nature",
+                "trees",
+                "earthy",
+                "green"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 4,
+            "name": "Pastel Dreams",
+            "colors": [
+                "#D4F0F0",
+                "#8FCACA",
+                "#CCE2CB",
+                "#B6CFB6",
+                "#97C1A9"
+            ],
+            "category": "pastel",
+            "tags": [
+                "soft",
+                "gentle",
+                "light",
+                "calming",
+                "spring"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 5,
+            "name": "Monochrome Elegance",
+            "colors": [
+                "#000000",
+                "#333333",
+                "#666666",
+                "#999999",
+                "#CCCCCC"
+            ],
+            "category": "neutral",
+            "tags": [
+                "monochrome",
+                "grayscale",
+                "professional",
+                "elegant",
+                "minimal"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 6,
+            "name": "Desert Sunset",
+            "colors": [
+                "#FE5F55",
+                "#F0B67F",
+                "#D6D1B1",
+                "#C7EFCF",
+                "#EEF5DB"
+            ],
+            "category": "warm",
+            "tags": [
+                "desert",
+                "sunset",
+                "warm",
+                "sand",
+                "nature"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 7,
+            "name": "Berry Splash",
+            "colors": [
+                "#6B0F1A",
+                "#B91372",
+                "#FD0A54",
+                "#F0386B",
+                "#F76E8C"
+            ],
+            "category": "bold",
+            "tags": [
+                "berry",
+                "pink",
+                "bold",
+                "vibrant",
+                "energetic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 8,
+            "name": "Midnight Sky",
+            "colors": [
+                "#0F1123",
+                "#2B2D42",
+                "#8D99AE",
+                "#EDF2F4",
+                "#D90429"
+            ],
+            "category": "dark",
+            "tags": [
+                "night",
+                "dark",
+                "sky",
+                "stars",
+                "modern"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 9,
+            "name": "Autumn Leaves",
+            "colors": [
+                "#773344",
+                "#E3B5A4",
+                "#E8D6CB",
+                "#C44536",
+                "#772E25"
+            ],
+            "category": "earth",
+            "tags": [
+                "autumn",
+                "fall",
+                "warm",
+                "leaves",
+                "cozy"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 10,
+            "name": "Spring Blossoms",
+            "colors": [
+                "#F1E4F3",
+                "#F5C7F7",
+                "#99E1D9",
+                "#70ABAF",
+                "#705D56"
+            ],
+            "category": "pastel",
+            "tags": [
+                "spring",
+                "flowers",
+                "bloom",
+                "fresh",
+                "soft"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 11,
+            "name": "Neon Dreams",
+            "colors": [
+                "#00FFFF",
+                "#FF00FF",
+                "#FF0000",
+                "#FFFF00",
+                "#00FF00"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "neon",
+                "bright",
+                "electric",
+                "bold",
+                "nightlife"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 12,
+            "name": "Nordic Winter",
+            "colors": [
+                "#1B262C",
+                "#0F4C75",
+                "#3282B8",
+                "#BBE1FA",
+                "#FFFFFF"
+            ],
+            "category": "cool",
+            "tags": [
+                "winter",
+                "snow",
+                "nordic",
+                "cold",
+                "ice"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 13,
+            "name": "Tropical Paradise",
+            "colors": [
+                "#005F73",
+                "#0A9396",
+                "#94D2BD",
+                "#E9D8A6",
+                "#EE9B00"
+            ],
+            "category": "tropical",
+            "tags": [
+                "tropical",
+                "beach",
+                "vacation",
+                "paradise",
+                "island"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 14,
+            "name": "Urban Jungle",
+            "colors": [
+                "#2B2D42",
+                "#8D99AE",
+                "#71B48D",
+                "#539987",
+                "#9BC4BC"
+            ],
+            "category": "urban",
+            "tags": [
+                "city",
+                "urban",
+                "modern",
+                "concrete",
+                "jungle"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 15,
+            "name": "Vintage Charm",
+            "colors": [
+                "#D8B384",
+                "#774936",
+                "#F5EBE0",
+                "#E2D4BA",
+                "#9C6644"
+            ],
+            "category": "vintage",
+            "tags": [
+                "retro",
+                "vintage",
+                "classic",
+                "sepia",
+                "nostalgic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 16,
+            "name": "Candy Shop",
+            "colors": [
+                "#F08080",
+                "#F4978E",
+                "#F8AD9D",
+                "#FBC4AB",
+                "#FFDAB9"
+            ],
+            "category": "pastel",
+            "tags": [
+                "candy",
+                "sweet",
+                "pink",
+                "pastel",
+                "fun"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 17,
+            "name": "Tech Minimalist",
+            "colors": [
+                "#232931",
+                "#393E46",
+                "#4ECCA3",
+                "#EEEEEE",
+                "#FFFFFF"
+            ],
+            "category": "tech",
+            "tags": [
+                "technology",
+                "modern",
+                "minimalist",
+                "clean",
+                "simple"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 18,
+            "name": "Morning Mist",
+            "colors": [
+                "#D8E2DC",
+                "#FFE5D9",
+                "#FFCAD4",
+                "#F4ACB7",
+                "#9D8189"
+            ],
+            "category": "pastel",
+            "tags": [
+                "morning",
+                "mist",
+                "fog",
+                "subtle",
+                "gentle"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 19,
+            "name": "Summer Festival",
+            "colors": [
+                "#F9C80E",
+                "#F86624",
+                "#EA3546",
+                "#662E9B",
+                "#43BCCD"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "festival",
+                "summer",
+                "vibrant",
+                "fun",
+                "playful"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 20,
+            "name": "Coffee Break",
+            "colors": [
+                "#4B3621",
+                "#664228",
+                "#A67B5B",
+                "#C4A484",
+                "#F1E9DA"
+            ],
+            "category": "earth",
+            "tags": [
+                "coffee",
+                "brown",
+                "warm",
+                "cozy",
+                "earthy"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 21,
+            "name": "Arctic Ice",
+            "colors": [
+                "#E3F2FD",
+                "#BBDEFB",
+                "#90CAF9",
+                "#64B5F6",
+                "#42A5F5"
+            ],
+            "category": "cool",
+            "tags": [
+                "ice",
+                "arctic",
+                "cold",
+                "blue",
+                "winter"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 22,
+            "name": "Golden Hour",
+            "colors": [
+                "#FF9E00",
+                "#FF7A00",
+                "#FF6101",
+                "#E25822",
+                "#B22222"
+            ],
+            "category": "warm",
+            "tags": [
+                "sunset",
+                "golden",
+                "orange",
+                "warm",
+                "photography"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 23,
+            "name": "Lavender Fields",
+            "colors": [
+                "#E6E6FA",
+                "#D8BFD8",
+                "#DDA0DD",
+                "#BA55D3",
+                "#9370DB"
+            ],
+            "category": "pastel",
+            "tags": [
+                "lavender",
+                "purple",
+                "field",
+                "flowers",
+                "relaxing"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 24,
+            "name": "Citrus Grove",
+            "colors": [
+                "#FFF07C",
+                "#80FF72",
+                "#7EE8FA",
+                "#EEC0C6",
+                "#E58C8A"
+            ],
+            "category": "bright",
+            "tags": [
+                "citrus",
+                "fruit",
+                "fresh",
+                "summer",
+                "bright"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 25,
+            "name": "Deep Ocean",
+            "colors": [
+                "#03045E",
+                "#023E8A",
+                "#0077B6",
+                "#0096C7",
+                "#00B4D8"
+            ],
+            "category": "cool",
+            "tags": [
+                "ocean",
+                "deep",
+                "water",
+                "blue",
+                "marine"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 26,
+            "name": "Enchanted Forest",
+            "colors": [
+                "#2C5F2D",
+                "#97BC62",
+                "#FFE77A",
+                "#408EC6",
+                "#1E3F66"
+            ],
+            "category": "earth",
+            "tags": [
+                "forest",
+                "enchanted",
+                "magical",
+                "trees",
+                "nature"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 27,
+            "name": "Space Exploration",
+            "colors": [
+                "#0B0C10",
+                "#1F2833",
+                "#C5C6C7",
+                "#66FCF1",
+                "#45A29E"
+            ],
+            "category": "dark",
+            "tags": [
+                "space",
+                "stars",
+                "galaxy",
+                "sci-fi",
+                "futuristic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 28,
+            "name": "Cherry Blossom",
+            "colors": [
+                "#F8C9CB",
+                "#E2B6CF",
+                "#DFA5E5",
+                "#D593F5",
+                "#B77CB4"
+            ],
+            "category": "pastel",
+            "tags": [
+                "cherry",
+                "blossom",
+                "spring",
+                "pink",
+                "japan"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 29,
+            "name": "Rustic Farmhouse",
+            "colors": [
+                "#F1FAEE",
+                "#A8DADC",
+                "#457B9D",
+                "#1D3557",
+                "#E63946"
+            ],
+            "category": "vintage",
+            "tags": [
+                "rustic",
+                "farmhouse",
+                "country",
+                "traditional",
+                "homey"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 30,
+            "name": "Industrial Chic",
+            "colors": [
+                "#27374D",
+                "#526D82",
+                "#9DB2BF",
+                "#DDE6ED",
+                "#F0F0F0"
+            ],
+            "category": "neutral",
+            "tags": [
+                "industrial",
+                "modern",
+                "steel",
+                "concrete",
+                "urban"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 31,
+            "name": "Emerald City",
+            "colors": [
+                "#1A535C",
+                "#4ECDC4",
+                "#06D6A0",
+                "#2EC4B6",
+                "#05A696"
+            ],
+            "category": "cool",
+            "tags": [
+                "emerald",
+                "green",
+                "city",
+                "jewel",
+                "teal"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 32,
+            "name": "Desert Night",
+            "colors": [
+                "#462255",
+                "#313B72",
+                "#504099",
+                "#974EC3",
+                "#FE7FE2"
+            ],
+            "category": "dark",
+            "tags": [
+                "desert",
+                "night",
+                "stars",
+                "purple",
+                "mystical"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 33,
+            "name": "Coral Reef",
+            "colors": [
+                "#FF6B6B",
+                "#FFD93D",
+                "#6BCB77",
+                "#4D96FF",
+                "#F2F2F2"
+            ],
+            "category": "bright",
+            "tags": [
+                "coral",
+                "reef",
+                "ocean",
+                "underwater",
+                "tropical"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 34,
+            "name": "Mountain Haze",
+            "colors": [
+                "#5D5C61",
+                "#379683",
+                "#7395AE",
+                "#557A95",
+                "#B1A296"
+            ],
+            "category": "earth",
+            "tags": [
+                "mountain",
+                "haze",
+                "fog",
+                "nature",
+                "landscape"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 35,
+            "name": "Cosmic Dust",
+            "colors": [
+                "#2D00F7",
+                "#6A00F4",
+                "#8900F2",
+                "#A100F2",
+                "#B100E8"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "cosmic",
+                "space",
+                "galaxy",
+                "purple",
+                "nebula"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 36,
+            "name": "Zen Garden",
+            "colors": [
+                "#D8E2DC",
+                "#FFE5D9",
+                "#FFCAD4",
+                "#F4ACB7",
+                "#9D8189"
+            ],
+            "category": "pastel",
+            "tags": [
+                "zen",
+                "garden",
+                "calm",
+                "peaceful",
+                "meditation"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 37,
+            "name": "Cyberpunk Night",
+            "colors": [
+                "#0D0221",
+                "#0F084B",
+                "#26408B",
+                "#A6CFD5",
+                "#C2E7D9"
+            ],
+            "category": "tech",
+            "tags": [
+                "cyberpunk",
+                "neon",
+                "futuristic",
+                "digital",
+                "tech"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 38,
+            "name": "Autumn Harvest",
+            "colors": [
+                "#D8B384",
+                "#FFBB98",
+                "#E7B7C8",
+                "#8BB39E",
+                "#798478"
+            ],
+            "category": "earth",
+            "tags": [
+                "harvest",
+                "autumn",
+                "fall",
+                "thanksgiving",
+                "bounty"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 39,
+            "name": "Watermelon Sugar",
+            "colors": [
+                "#FF6B6B",
+                "#FFE66D",
+                "#4ECDC4",
+                "#53A69D",
+                "#1A535C"
+            ],
+            "category": "bright",
+            "tags": [
+                "watermelon",
+                "fruit",
+                "summer",
+                "fresh",
+                "juicy"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 40,
+            "name": "Scandinavian Winter",
+            "colors": [
+                "#F4F1DE",
+                "#E6E3D3",
+                "#D8D3C8",
+                "#CAC3BE",
+                "#BEB3B3"
+            ],
+            "category": "neutral",
+            "tags": [
+                "scandinavian",
+                "winter",
+                "minimal",
+                "nordic",
+                "hygge"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 41,
+            "name": "Mojave Desert",
+            "colors": [
+                "#C2B280",
+                "#D7BE69",
+                "#ECC75F",
+                "#F5D55F",
+                "#FCEA70"
+            ],
+            "category": "warm",
+            "tags": [
+                "desert",
+                "sand",
+                "dry",
+                "arid",
+                "hot"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 42,
+            "name": "Winter Berries",
+            "colors": [
+                "#1A1B41",
+                "#292A52",
+                "#4F1B44",
+                "#7D1D3F",
+                "#DC2E6B"
+            ],
+            "category": "dark",
+            "tags": [
+                "berries",
+                "winter",
+                "dark",
+                "rich",
+                "deep"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 43,
+            "name": "Botanical Garden",
+            "colors": [
+                "#D1E8E4",
+                "#BAD1CD",
+                "#A3BBB5",
+                "#7C9F9D",
+                "#547A82"
+            ],
+            "category": "earth",
+            "tags": [
+                "botanical",
+                "garden",
+                "plants",
+                "natural",
+                "green"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 44,
+            "name": "Bubblegum Pop",
+            "colors": [
+                "#F72585",
+                "#B5179E",
+                "#7209B7",
+                "#560BAD",
+                "#480CA8"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "bubblegum",
+                "pop",
+                "vibrant",
+                "candy",
+                "bright"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 45,
+            "name": "Misty Morning",
+            "colors": [
+                "#E3E1E4",
+                "#D5D0D7",
+                "#C6C0C9",
+                "#B8B1BC",
+                "#A9A2AF"
+            ],
+            "category": "neutral",
+            "tags": [
+                "misty",
+                "morning",
+                "fog",
+                "subtle",
+                "gentle"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 46,
+            "name": "Volcanic Heat",
+            "colors": [
+                "#050505",
+                "#1F1F1F",
+                "#5B3B3C",
+                "#C64423",
+                "#F8550A"
+            ],
+            "category": "warm",
+            "tags": [
+                "volcanic",
+                "lava",
+                "heat",
+                "fire",
+                "intense"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 47,
+            "name": "Rainforest Canopy",
+            "colors": [
+                "#1B4332",
+                "#2D6A4F",
+                "#40916C",
+                "#52B788",
+                "#74C69D"
+            ],
+            "category": "earth",
+            "tags": [
+                "rainforest",
+                "canopy",
+                "jungle",
+                "tropical",
+                "lush"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 48,
+            "name": "Peacock Feathers",
+            "colors": [
+                "#013A63",
+                "#01497C",
+                "#2A6F97",
+                "#2C7DA0",
+                "#61A5C2"
+            ],
+            "category": "cool",
+            "tags": [
+                "peacock",
+                "feathers",
+                "bird",
+                "majestic",
+                "elegant"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 49,
+            "name": "Himalayan Salt",
+            "colors": [
+                "#FFE5D9",
+                "#FFCAD4",
+                "#F4ACB7",
+                "#E68CAC",
+                "#9D8189"
+            ],
+            "category": "warm",
+            "tags": [
+                "himalayan",
+                "salt",
+                "pink",
+                "mineral",
+                "natural"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 50,
+            "name": "Northern Lights",
+            "colors": [
+                "#2C3333",
+                "#2C3639",
+                "#2E4F4F",
+                "#0E8388",
+                "#CBE4DE"
+            ],
+            "category": "dark",
+            "tags": [
+                "aurora",
+                "northern",
+                "lights",
+                "sky",
+                "phenomenon"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 51,
+            "name": "Mediterranean Summer",
+            "colors": [
+                "#3498DB",
+                "#2980B9",
+                "#ECF0F1",
+                "#BDC3C7",
+                "#F1C40F"
+            ],
+            "category": "bright",
+            "tags": [
+                "mediterranean",
+                "summer",
+                "sea",
+                "sunny",
+                "coastal"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 52,
+            "name": "Plum Harvest",
+            "colors": [
+                "#5D1451",
+                "#8F3985",
+                "#C159AB",
+                "#EFA9CB",
+                "#F2C1D1"
+            ],
+            "category": "rich",
+            "tags": [
+                "plum",
+                "purple",
+                "rich",
+                "harvest",
+                "fruit"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 53,
+            "name": "Jade Elegance",
+            "colors": [
+                "#00585E",
+                "#009494",
+                "#F5F2DC",
+                "#F2BB9B",
+                "#D36135"
+            ],
+            "category": "elegant",
+            "tags": [
+                "jade",
+                "green",
+                "elegant",
+                "asian",
+                "cultural"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 54,
+            "name": "Retro Game",
+            "colors": [
+                "#07004D",
+                "#1F0075",
+                "#5E00FF",
+                "#08B2E3",
+                "#00F7FF"
+            ],
+            "category": "tech",
+            "tags": [
+                "retro",
+                "game",
+                "vintage",
+                "arcade",
+                "digital"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 55,
+            "name": "Pumpkin Spice",
+            "colors": [
+                "#984B43",
+                "#C15B39",
+                "#F47B49",
+                "#F7A325",
+                "#F5C096"
+            ],
+            "category": "warm",
+            "tags": [
+                "pumpkin",
+                "spice",
+                "autumn",
+                "warm",
+                "cozy"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 56,
+            "name": "Moonlit Meadow",
+            "colors": [
+                "#272643",
+                "#2C698D",
+                "#3E8989",
+                "#BAE8E8",
+                "#E3F6F5"
+            ],
+            "category": "cool",
+            "tags": [
+                "moonlight",
+                "meadow",
+                "night",
+                "peaceful",
+                "serene"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 57,
+            "name": "Spice Market",
+            "colors": [
+                "#973131",
+                "#C13636",
+                "#F28500",
+                "#EEA505",
+                "#F2CB05"
+            ],
+            "category": "warm",
+            "tags": [
+                "spice",
+                "market",
+                "exotic",
+                "indian",
+                "vibrant"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 58,
+            "name": "Succulent Garden",
+            "colors": [
+                "#AFC97E",
+                "#C5D86D",
+                "#C8DA74",
+                "#D0DB8F",
+                "#CDE4B1"
+            ],
+            "category": "earth",
+            "tags": [
+                "succulent",
+                "garden",
+                "plants",
+                "desert",
+                "green"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 59,
+            "name": "Frozen Berry",
+            "colors": [
+                "#48466D",
+                "#3D84A8",
+                "#46CDCF",
+                "#ABEDD8",
+                "#F9F9F9"
+            ],
+            "category": "cool",
+            "tags": [
+                "frozen",
+                "berry",
+                "winter",
+                "cool",
+                "icy"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 60,
+            "name": "Terracotta Dream",
+            "colors": [
+                "#E07A5F",
+                "#F2CC8F",
+                "#81B29A",
+                "#3D405B",
+                "#F4F1DE"
+            ],
+            "category": "earth",
+            "tags": [
+                "terracotta",
+                "clay",
+                "pottery",
+                "earthy",
+                "warm"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 61,
+            "name": "Paper Craft",
+            "colors": [
+                "#EBF4F5",
+                "#DEDDE0",
+                "#B9C0DA",
+                "#87A0B2",
+                "#446688"
+            ],
+            "category": "neutral",
+            "tags": [
+                "paper",
+                "craft",
+                "origami",
+                "subtle",
+                "artistic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 62,
+            "name": "Vintage Postcard",
+            "colors": [
+                "#F8E9CC",
+                "#F5CDA7",
+                "#F98948",
+                "#EB5E28",
+                "#EF271B"
+            ],
+            "category": "vintage",
+            "tags": [
+                "postcard",
+                "vintage",
+                "travel",
+                "nostalgic",
+                "faded"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 63,
+            "name": "Electric Lemonade",
+            "colors": [
+                "#1EE494",
+                "#36B5B0",
+                "#5E5EBF",
+                "#9059CB",
+                "#C03FE2"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "electric",
+                "neon",
+                "lemonade",
+                "drink",
+                "party"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 64,
+            "name": "Asian Teahouse",
+            "colors": [
+                "#A0A083",
+                "#E3D3B3",
+                "#C5A68E",
+                "#735751",
+                "#372E29"
+            ],
+            "category": "earth",
+            "tags": [
+                "tea",
+                "asian",
+                "zen",
+                "traditional",
+                "serene"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 65,
+            "name": "Neon Tokyo",
+            "colors": [
+                "#08F7FE",
+                "#09FBD3",
+                "#FE53BB",
+                "#F5D300",
+                "#7122FA"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "tokyo",
+                "neon",
+                "city",
+                "night",
+                "cyberpunk"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 66,
+            "name": "Marble Elegance",
+            "colors": [
+                "#F0F0F0",
+                "#E0E0E0",
+                "#CCCCCC",
+                "#B8B8B8",
+                "#A3A3A3"
+            ],
+            "category": "neutral",
+            "tags": [
+                "marble",
+                "elegant",
+                "stone",
+                "classic",
+                "luxury"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 67,
+            "name": "Underwater Kingdom",
+            "colors": [
+                "#1B262C",
+                "#0F4C75",
+                "#3282B8",
+                "#BBE1FA",
+                "#29C2D6"
+            ],
+            "category": "cool",
+            "tags": [
+                "underwater",
+                "ocean",
+                "sea",
+                "aquatic",
+                "deep"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 68,
+            "name": "Flamingo Pink",
+            "colors": [
+                "#FF9897",
+                "#FFC0AD",
+                "#FFD6C2",
+                "#FFECDB",
+                "#FFF9F4"
+            ],
+            "category": "pastel",
+            "tags": [
+                "flamingo",
+                "pink",
+                "bird",
+                "tropical",
+                "gentle"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 69,
+            "name": "Midnight Jazz",
+            "colors": [
+                "#2C3333",
+                "#2E4F4F",
+                "#0E8388",
+                "#CBE4DE",
+                "#FF6000"
+            ],
+            "category": "dark",
+            "tags": [
+                "jazz",
+                "midnight",
+                "music",
+                "nightclub",
+                "moody"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 70,
+            "name": "Maple Leaf",
+            "colors": [
+                "#641220",
+                "#85182A",
+                "#A71E34",
+                "#BD1F36",
+                "#DA1E37"
+            ],
+            "category": "warm",
+            "tags": [
+                "maple",
+                "leaf",
+                "autumn",
+                "canadian",
+                "red"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 71,
+            "name": "Cactus Bloom",
+            "colors": [
+                "#3F826D",
+                "#9ED795",
+                "#F0F473",
+                "#FFC996",
+                "#FF8364"
+            ],
+            "category": "earth",
+            "tags": [
+                "cactus",
+                "bloom",
+                "flower",
+                "desert",
+                "succulent"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 72,
+            "name": "Winter Cabin",
+            "colors": [
+                "#552619",
+                "#703D2A",
+                "#9E674D",
+                "#CB997E",
+                "#DDBEA9"
+            ],
+            "category": "warm",
+            "tags": [
+                "cabin",
+                "winter",
+                "wood",
+                "cozy",
+                "rustic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 73,
+            "name": "Blue Morpho",
+            "colors": [
+                "#051094",
+                "#2747E7",
+                "#4C74F9",
+                "#90A0FD",
+                "#C8CEFB"
+            ],
+            "category": "cool",
+            "tags": [
+                "butterfly",
+                "blue",
+                "morpho",
+                "insect",
+                "wings"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 74,
+            "name": "Urban Concrete",
+            "colors": [
+                "#2F3037",
+                "#4A4B52",
+                "#83838F",
+                "#A2A3B0",
+                "#D1D1DA"
+            ],
+            "category": "neutral",
+            "tags": [
+                "urban",
+                "concrete",
+                "city",
+                "gray",
+                "modern"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 75,
+            "name": "Watercolor Dreams",
+            "colors": [
+                "#E3D8F1",
+                "#DEBAF5",
+                "#EFB5DC",
+                "#F5A6C3",
+                "#F8C4AE"
+            ],
+            "category": "pastel",
+            "tags": [
+                "watercolor",
+                "painting",
+                "artistic",
+                "soft",
+                "dreams"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 76,
+            "name": "Lush Meadow",
+            "colors": [
+                "#92BDA3",
+                "#6AA06B",
+                "#41703C",
+                "#2F4D28",
+                "#1E331A"
+            ],
+            "category": "earth",
+            "tags": [
+                "meadow",
+                "grass",
+                "lush",
+                "green",
+                "natural"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 77,
+            "name": "Terra Cotta",
+            "colors": [
+                "#A03C28",
+                "#C15B3F",
+                "#D0876C",
+                "#DEB6A3",
+                "#F2DDD0"
+            ],
+            "category": "earth",
+            "tags": [
+                "terra",
+                "cotta",
+                "clay",
+                "pottery",
+                "orange"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 78,
+            "name": "Galactic Center",
+            "colors": [
+                "#090808",
+                "#1F2041",
+                "#4B3F72",
+                "#9884CB",
+                "#FFC857"
+            ],
+            "category": "dark",
+            "tags": [
+                "galaxy",
+                "space",
+                "stars",
+                "cosmic",
+                "universe"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 79,
+            "name": "Vintage Camera",
+            "colors": [
+                "#000000",
+                "#2F2F2F",
+                "#575757",
+                "#858585",
+                "#BFBFBF"
+            ],
+            "category": "vintage",
+            "tags": [
+                "camera",
+                "photography",
+                "vintage",
+                "film",
+                "retro"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 80,
+            "name": "Peach Sorbet",
+            "colors": [
+                "#FFBC80",
+                "#FFD6A5",
+                "#FFFFC1",
+                "#CAFFBF",
+                "#9BF6FF"
+            ],
+            "category": "pastel",
+            "tags": [
+                "peach",
+                "sorbet",
+                "dessert",
+                "sweet",
+                "pastel"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 81,
+            "name": "Rainy Day",
+            "colors": [
+                "#516C8D",
+                "#648CAF",
+                "#7FA5D1",
+                "#9BBAE3",
+                "#C4D7F5"
+            ],
+            "category": "cool",
+            "tags": [
+                "rain",
+                "clouds",
+                "weather",
+                "blue",
+                "water"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 82,
+            "name": "Matcha Tea",
+            "colors": [
+                "#C9D99E",
+                "#A8C97B",
+                "#87A95E",
+                "#677D44",
+                "#48562B"
+            ],
+            "category": "earth",
+            "tags": [
+                "matcha",
+                "tea",
+                "green",
+                "japanese",
+                "natural"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 83,
+            "name": "Moroccan Spice",
+            "colors": [
+                "#7A3803",
+                "#C06602",
+                "#D78E04",
+                "#F0C808",
+                "#F9E790"
+            ],
+            "category": "warm",
+            "tags": [
+                "moroccan",
+                "spice",
+                "exotic",
+                "middle eastern",
+                "warm"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 84,
+            "name": "Studio 54",
+            "colors": [
+                "#BD10E0",
+                "#9013FE",
+                "#4A25E9",
+                "#0E8EE9",
+                "#25EECD"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "disco",
+                "studio",
+                "70s",
+                "party",
+                "dance"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 85,
+            "name": "Calm Bamboo",
+            "colors": [
+                "#B4C292",
+                "#A8B27D",
+                "#909C66",
+                "#747E4A",
+                "#5A6339"
+            ],
+            "category": "earth",
+            "tags": [
+                "bamboo",
+                "zen",
+                "calm",
+                "natural",
+                "japanese"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 86,
+            "name": "Ink Wash",
+            "colors": [
+                "#07080B",
+                "#222431",
+                "#374563",
+                "#5D7599",
+                "#95B0D7"
+            ],
+            "category": "cool",
+            "tags": [
+                "ink",
+                "wash",
+                "painting",
+                "asian",
+                "artistic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 87,
+            "name": "Rose Gold",
+            "colors": [
+                "#F9D1D1",
+                "#EBB8BC",
+                "#DE9297",
+                "#D2707A",
+                "#CB5A65"
+            ],
+            "category": "elegant",
+            "tags": [
+                "rose",
+                "gold",
+                "metallic",
+                "elegant",
+                "luxury"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 88,
+            "name": "Coastal Village",
+            "colors": [
+                "#197278",
+                "#2A9D90",
+                "#3AB4A0",
+                "#63C7B2",
+                "#92D3C6"
+            ],
+            "category": "cool",
+            "tags": [
+                "coastal",
+                "village",
+                "sea",
+                "mediterranean",
+                "vacation"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 89,
+            "name": "Urban Decay",
+            "colors": [
+                "#354851",
+                "#6F8790",
+                "#A2B2BB",
+                "#D5E1E8",
+                "#8E9B97"
+            ],
+            "category": "urban",
+            "tags": [
+                "urban",
+                "decay",
+                "industrial",
+                "weathered",
+                "city"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 90,
+            "name": "Fairy Garden",
+            "colors": [
+                "#F178B6",
+                "#F3A9CF",
+                "#F8DCE0",
+                "#B7EFB3",
+                "#7EDABA"
+            ],
+            "category": "fantasy",
+            "tags": [
+                "fairy",
+                "garden",
+                "magical",
+                "fantasy",
+                "enchanted"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 91,
+            "name": "Antique Book",
+            "colors": [
+                "#E8DCCC",
+                "#D2B999",
+                "#BAA38E",
+                "#9B876F",
+                "#7D6B5A"
+            ],
+            "category": "vintage",
+            "tags": [
+                "antique",
+                "book",
+                "vintage",
+                "paper",
+                "aged"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 92,
+            "name": "Venetian Mask",
+            "colors": [
+                "#4A171E",
+                "#812736",
+                "#BD3248",
+                "#F4927A",
+                "#F8C49A"
+            ],
+            "category": "rich",
+            "tags": [
+                "venetian",
+                "mask",
+                "carnival",
+                "fancy",
+                "traditional"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 93,
+            "name": "Alpine Meadow",
+            "colors": [
+                "#F1FAEE",
+                "#A8DADC",
+                "#457B9D",
+                "#1D3557",
+                "#E63946"
+            ],
+            "category": "cool",
+            "tags": [
+                "alpine",
+                "meadow",
+                "mountains",
+                "fresh",
+                "clean"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 94,
+            "name": "Stained Glass",
+            "colors": [
+                "#DB2B39",
+                "#29335C",
+                "#F3A712",
+                "#00A6A6",
+                "#0F8B8D"
+            ],
+            "category": "vibrant",
+            "tags": [
+                "stained",
+                "glass",
+                "church",
+                "colorful",
+                "artistic"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 95,
+            "name": "Driftwood Beach",
+            "colors": [
+                "#DCD7C9",
+                "#B4B4B2",
+                "#8B8996",
+                "#6B728E",
+                "#50577A"
+            ],
+            "category": "neutral",
+            "tags": [
+                "driftwood",
+                "beach",
+                "wood",
+                "weathered",
+                "coastal"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 96,
+            "name": "Night Market",
+            "colors": [
+                "#0D0628",
+                "#200F60",
+                "#4421AF",
+                "#7842EC",
+                "#E26EFF"
+            ],
+            "category": "dark",
+            "tags": [
+                "market",
+                "night",
+                "street",
+                "city",
+                "asian"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 97,
+            "name": "Handmade Paper",
+            "colors": [
+                "#FDFCF5",
+                "#F1EDE2",
+                "#E2DCCD",
+                "#D4CAB6",
+                "#C5B9A0"
+            ],
+            "category": "neutral",
+            "tags": [
+                "paper",
+                "handmade",
+                "texture",
+                "natural",
+                "craft"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 98,
+            "name": "Wild Berry",
+            "colors": [
+                "#4E0C43",
+                "#771855",
+                "#BA2575",
+                "#F54997",
+                "#FEB2D8"
+            ],
+            "category": "rich",
+            "tags": [
+                "berry",
+                "wild",
+                "fruit",
+                "purple",
+                "pink"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 99,
+            "name": "Brass & Copper",
+            "colors": [
+                "#6D4C3D",
+                "#9C7853",
+                "#C39D63",
+                "#E5BA73",
+                "#FFEDDB"
+            ],
+            "category": "metallic",
+            "tags": [
+                "brass",
+                "copper",
+                "metal",
+                "warm",
+                "elegant"
+            ],
+            "favorite": false
+        },
+        {
+            "id": 100,
+            "name": "Mineral Deposit",
+            "colors": [
+                "#375E97",
+                "#FB6542",
+                "#FFBB00",
+                "#3F681C",
+                "#DCE1E3"
+            ],
+            "category": "earth",
+            "tags": [
+                "mineral",
+                "deposit",
+                "geology",
+                "earth",
+                "natural"
+            ],
+            "favorite": false
+        }
+    ],
+    "categories": [
+        "warm",
+        "cool",
+        "earth",
+        "pastel",
+        "neutral",
+        "bold",
+        "dark",
+        "vibrant",
+        "tropical",
+        "urban",
+        "vintage",
+        "tech",
+        "bright",
+        "rich",
+        "elegant",
+        "fantasy",
+        "metallic"
+    ],
+    "tags": [
+        "sunset",
+        "warm",
+        "vibrant",
+        "summer",
+        "beach",
+        "ocean",
+        "water",
+        "cool",
+        "fresh",
+        "forest",
+        "nature",
+        "trees",
+        "earthy",
+        "green",
+        "soft",
+        "gentle",
+        "light",
+        "calming",
+        "spring",
+        "monochrome",
+        "grayscale",
+        "professional",
+        "elegant",
+        "minimal",
+        "desert",
+        "sand",
+        "berry",
+        "pink",
+        "bold",
+        "energetic",
+        "night",
+        "dark",
+        "sky",
+        "stars",
+        "modern",
+        "autumn",
+        "fall",
+        "leaves",
+        "cozy",
+        "flowers",
+        "bloom",
+        "neon",
+        "bright",
+        "electric",
+        "nightlife",
+        "winter",
+        "snow",
+        "nordic",
+        "cold",
+        "ice",
+        "tropical",
+        "vacation",
+        "paradise",
+        "island",
+        "city",
+        "urban",
+        "concrete",
+        "jungle",
+        "retro",
+        "vintage",
+        "classic",
+        "sepia",
+        "nostalgic",
+        "candy",
+        "sweet",
+        "fun",
+        "technology",
+        "minimalist",
+        "clean",
+        "simple",
+        "morning",
+        "mist",
+        "fog",
+        "subtle",
+        "festival",
+        "playful",
+        "coffee",
+        "brown",
+        "arctic",
+        "golden",
+        "orange",
+        "photography",
+        "lavender",
+        "purple",
+        "field",
+        "relaxing",
+        "citrus",
+        "fruit",
+        "deep",
+        "marine",
+        "enchanted",
+        "magical",
+        "space",
+        "galaxy",
+        "sci-fi",
+        "futuristic",
+        "cherry",
+        "blossom",
+        "japan",
+        "rustic",
+        "farmhouse",
+        "country",
+        "traditional",
+        "homey",
+        "industrial",
+        "steel",
+        "emerald",
+        "jewel",
+        "teal",
+        "mystical",
+        "coral",
+        "reef",
+        "underwater",
+        "mountain",
+        "landscape",
+        "cosmic",
+        "nebula",
+        "zen",
+        "garden",
+        "calm",
+        "peaceful",
+        "meditation",
+        "cyberpunk",
+        "digital",
+        "tech",
+        "harvest",
+        "thanksgiving",
+        "bounty",
+        "watermelon",
+        "juicy",
+        "scandinavian",
+        "hygge",
+        "arid",
+        "hot",
+        "berries",
+        "rich",
+        "deep",
+        "botanical",
+        "plants",
+        "natural",
+        "bubblegum",
+        "pop",
+        "misty",
+        "volcanic",
+        "lava",
+        "heat",
+        "fire",
+        "intense",
+        "rainforest",
+        "canopy",
+        "lush",
+        "peacock",
+        "feathers",
+        "bird",
+        "majestic",
+        "himalayan",
+        "salt",
+        "mineral",
+        "aurora",
+        "phenomenon",
+        "mediterranean",
+        "sea",
+        "sunny",
+        "coastal",
+        "plum",
+        "jade",
+        "asian",
+        "cultural",
+        "game",
+        "arcade",
+        "pumpkin",
+        "spice",
+        "moonlight",
+        "serene",
+        "exotic",
+        "indian",
+        "succulent",
+        "frozen",
+        "icy",
+        "terracotta",
+        "clay",
+        "pottery",
+        "paper",
+        "craft",
+        "origami",
+        "artistic",
+        "postcard",
+        "travel",
+        "faded",
+        "drink",
+        "party",
+        "tea",
+        "tokyo",
+        "marble",
+        "stone",
+        "luxury",
+        "aquatic",
+        "flamingo",
+        "jazz",
+        "music",
+        "nightclub",
+        "moody",
+        "maple",
+        "leaf",
+        "canadian",
+        "red",
+        "cactus",
+        "cabin",
+        "wood",
+        "butterfly",
+        "insect",
+        "wings",
+        "gray",
+        "painting",
+        "dreams",
+        "grass",
+        "terra",
+        "universe",
+        "camera",
+        "film",
+        "peach",
+        "sorbet",
+        "dessert",
+        "rain",
+        "clouds",
+        "weather",
+        "matcha",
+        "japanese",
+        "moroccan",
+        "middle eastern",
+        "disco",
+        "studio",
+        "70s",
+        "dance",
+        "bamboo",
+        "ink",
+        "wash",
+        "rose",
+        "gold",
+        "metallic",
+        "village",
+        "mediterranean",
+        "decay",
+        "weathered",
+        "fairy",
+        "fantasy",
+        "antique",
+        "book",
+        "aged",
+        "venetian",
+        "mask",
+        "carnival",
+        "fancy",
+        "alpine",
+        "mountains",
+        "stained",
+        "church",
+        "colorful",
+        "driftwood",
+        "market",
+        "street",
+        "texture",
+        "wild",
+        "brass",
+        "copper",
+        "metal",
+        "deposit",
+        "geology"
+    ]
+}
