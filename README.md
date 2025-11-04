@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/reddevil212/colorsforyou/refs/heads/main/src/app/opengraph-image.png)
+
 # Colors For You 🎨
 
 A modern, feature-rich web application for creating, exploring, and managing color palettes. Built with Next.js 15 and featuring smooth animations, multiple color tools, and an extensive palette gallery.
