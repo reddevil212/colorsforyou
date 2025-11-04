@@ -17,7 +17,7 @@ export default function AdSenseScript() {
     <Script
       id="adsbygoogle-init"
       strategy="afterInteractive"
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492056952455482"
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5453021366629473"
       crossOrigin="anonymous"
     />
   );
